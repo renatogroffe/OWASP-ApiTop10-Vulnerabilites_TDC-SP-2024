@@ -3,7 +3,7 @@ Materiais de apresentação sobre OWASP API Security Top 10 realizada no dia 19/
 
 ---
 
-Título da apresentação: **OWASP e desenvolvimento de APIs em .NET: 10 recomendações para tornar suas APIs mais seguras**
+Título da apresentação: **OWASP e desenvolvimento de APIs em .NET - 10 recomendações para tornar suas APIs mais seguras**
 
 Evento: **TDC Summit São Paulo 2024**
 
