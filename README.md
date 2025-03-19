@@ -32,8 +32,5 @@ Deixo aqui meus agradecimentos ao **Jhonathan de Souza Soares (Microsoft MVP)**,
 ![Renato e Bruno palestrando 4](img/O-07.jpg)
 
 ![Renato e Bruno palestrando 5](img/o-10.jpg)
-<<<<<<< HEAD
 
 ![Divulgação](img/divulgacao.png)
-=======
->>>>>>> c77b381098d21b910d105ce73e485124baf52ab7
