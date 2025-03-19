@@ -13,6 +13,6 @@ Tecnologias e tópicos abordados: **.NET, ASP.NET Core, OWASP API Security Top 1
 
 ![Renato e Bruno palestrando 3](img/o-08.jpg)
 
-![Renato e Bruno palestrando 4](img/o-07.jpg)
+![Renato e Bruno palestrando 4](img/O-07.jpg)
 
 ![Renato e Bruno palestrando 5](img/o-10.jpg)
